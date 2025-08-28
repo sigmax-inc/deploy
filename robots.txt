@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://sigmax.cloud/sitemap.xml
