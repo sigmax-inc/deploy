@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>SIGMAX Investing News</title>
+    <link>https://sigmax.cloud</link>
+    <description>AI, Tech, Economy Latest Investment News</description>
+    <language>en</language>
+    <lastBuildDate>Thu, 28 Aug 2025 06:43:41 GMT</lastBuildDate>
+
+    <item>
+      <title>Is Elon Musk suing Apple and OpenAI for excluding rival AI apps from iPhones?</title>
+      <link>https://sigmax.cloud/investing/en/elon-musk-sues-apple-openai-en</link>
+      <description>Elon Musk's xAI has filed a lawsuit against Apple and OpenAI for suppressing AI app competition and limiting access to users.</description>
+      <pubDate>Tue, 26 Aug 2025 11:52:42 GMT</pubDate>
+      <guid>https://sigmax.cloud/investing/en/elon-musk-sues-apple-openai-en</guid>
+    </item>
+
+  </channel>
+</rss>
