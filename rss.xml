@@ -5,14 +5,94 @@
     <link>https://sigmax.cloud</link>
     <description>AI, Tech, Economy Latest Investment News</description>
     <language>en</language>
-    <lastBuildDate>Thu, 28 Aug 2025 06:43:41 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 30 Aug 2025 06:52:00 GMT</lastBuildDate>
 
     <item>
-      <title>Is Elon Musk suing Apple and OpenAI for excluding rival AI apps from iPhones?</title>
-      <link>https://sigmax.cloud/investing/en/elon-musk-sues-apple-openai-en</link>
-      <description>Elon Musk's xAI has filed a lawsuit against Apple and OpenAI for suppressing AI app competition and limiting access to users.</description>
-      <pubDate>Tue, 26 Aug 2025 11:52:42 GMT</pubDate>
-      <guid>https://sigmax.cloud/investing/en/elon-musk-sues-apple-openai-en</guid>
+      <title>Volkswagen renews AWS deal to cut factory costs with AI</title>
+      <link>https://sigmax.cloud/investing/en/volkswagen-aws-partnership-ai-cost-optimization-en</link>
+      <description>Volkswagen renews its deal with AWS to enhance AI integration in manufacturing, streamlining operations across 43 global sites.</description>
+      <pubDate>Sat, 30 Aug 2025 05:50:02 GMT</pubDate>
+      <guid>https://sigmax.cloud/investing/en/volkswagen-aws-partnership-ai-cost-optimization-en</guid>
+    </item>
+
+    <item>
+      <title>Meta eyes Google and OpenAI models to boost apps before Llama</title>
+      <link>https://sigmax.cloud/investing/en/meta-google-openai-models-enhancements-en</link>
+      <description>Meta discusses integrating Google and OpenAI models into its apps to enhance AI features across platforms like WhatsApp and Instagram.</description>
+      <pubDate>Sat, 30 Aug 2025 06:00:01 GMT</pubDate>
+      <guid>https://sigmax.cloud/investing/en/meta-google-openai-models-enhancements-en</guid>
+    </item>
+
+    <item>
+      <title>Musk open sources Grok 2.5 putting advanced AI within everyone's reach</title>
+      <link>https://sigmax.cloud/investing/en/musk-open-sources-grok-2-5-en</link>
+      <description>Elon Musk announces the open-source release of Grok 2.5 AI model, making it freely available for developers and researchers globally.</description>
+      <pubDate>Sat, 30 Aug 2025 06:09:38 GMT</pubDate>
+      <guid>https://sigmax.cloud/investing/en/musk-open-sources-grok-2-5-en</guid>
+    </item>
+
+    <item>
+      <title>Musk open sources Grok 2.5 letting anyone download and run it</title>
+      <link>https://sigmax.cloud/investing/en/musk-open-sources-grok-2-5-en</link>
+      <description>Elon Musk's xAI open-sources Grok 2.5, enabling developers to download and modify the model. This move aims to democratize access to AI technology.</description>
+      <pubDate>Sat, 30 Aug 2025 06:10:05 GMT</pubDate>
+      <guid>https://sigmax.cloud/investing/en/musk-open-sources-grok-2-5-en</guid>
+    </item>
+
+    <item>
+      <title>Shopify files for 2.5 billion shelf to fuel rapid expansion</title>
+      <link>https://sigmax.cloud/investing/en/shopify-shelf-registration-en</link>
+      <description>Shopify files a mixed shelf registration for $2.5 billion, enhancing flexibility for issuing securities to fuel growth.</description>
+      <pubDate>Sat, 30 Aug 2025 06:10:47 GMT</pubDate>
+      <guid>https://sigmax.cloud/investing/en/shopify-shelf-registration-en</guid>
+    </item>
+
+    <item>
+      <title>US opens audit into Tesla crash report delays linked to Autopilot</title>
+      <link>https://sigmax.cloud/investing/en/us-audit-tesla-crash-reports-en</link>
+      <description>U.S. regulators investigate Tesla's delay in submitting crash reports related to Autopilot and Full Self-Driving, citing compliance concerns.</description>
+      <pubDate>Sat, 30 Aug 2025 06:12:49 GMT</pubDate>
+      <guid>https://sigmax.cloud/investing/en/us-audit-tesla-crash-reports-en</guid>
+    </item>
+
+    <item>
+      <title>US regulators probe Tesla over delayed crash reports for Autopilot</title>
+      <link>https://sigmax.cloud/investing/en/nhtsa-investigates-tesla-crash-reporting-delays-en</link>
+      <description>US regulators open a probe into Tesla's delayed crash reports for Autopilot. Investigation into compliance and reporting issues begins.</description>
+      <pubDate>Sat, 30 Aug 2025 06:13:02 GMT</pubDate>
+      <guid>https://sigmax.cloud/investing/en/nhtsa-investigates-tesla-crash-reporting-delays-en</guid>
+    </item>
+
+    <item>
+      <title>Tesla raises top Cybertruck price 15000 as luxury package becomes standard</title>
+      <link>https://sigmax.cloud/investing/en/tesla-cybertruck-price-increase-en</link>
+      <description>Tesla has increased the price of its Cyberbeast model by $15,000, now including the Luxe Package as standard. Learn more about this pricing change.</description>
+      <pubDate>Sat, 30 Aug 2025 06:13:30 GMT</pubDate>
+      <guid>https://sigmax.cloud/investing/en/tesla-cybertruck-price-increase-en</guid>
+    </item>
+
+    <item>
+      <title>Tesla raises Cybertruck price by fifteen thousand after adding self driving</title>
+      <link>https://sigmax.cloud/investing/en/tesla-cybertruck-price-increase-en</link>
+      <description>Tesla increases Cybertruck price by $15K after adding the Luxe Package, including Full-Self Driving capabilities.</description>
+      <pubDate>Sat, 30 Aug 2025 06:13:37 GMT</pubDate>
+      <guid>https://sigmax.cloud/investing/en/tesla-cybertruck-price-increase-en</guid>
+    </item>
+
+    <item>
+      <title>TSMC aims to export its trade secret vault to global partners</title>
+      <link>https://sigmax.cloud/investing/en/tsmc-trade-secret-export-en</link>
+      <description>TSMC is set to market its trade secret management system to partners in Europe and the US, enhancing intellectual property protection.</description>
+      <pubDate>Sat, 30 Aug 2025 06:14:15 GMT</pubDate>
+      <guid>https://sigmax.cloud/investing/en/tsmc-trade-secret-export-en</guid>
+    </item>
+
+    <item>
+      <title>TSMC unveils system to protect trade secrets for global suppliers</title>
+      <link>https://sigmax.cloud/investing/en/tsmc-trade-secrets-system-en</link>
+      <description>TSMC introduces a proprietary trade secrets management system for global suppliers to enhance IP governance in the semiconductor industry.</description>
+      <pubDate>Sat, 30 Aug 2025 06:14:18 GMT</pubDate>
+      <guid>https://sigmax.cloud/investing/en/tsmc-trade-secrets-system-en</guid>
     </item>
 
   </channel>
